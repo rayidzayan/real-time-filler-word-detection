@@ -1,5 +1,2 @@
 ﻿streamlit
-SpeechRecognition
-audioop-lts
-secrets.tom1
 faster-whisper
