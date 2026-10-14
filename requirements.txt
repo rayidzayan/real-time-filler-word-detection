@@ -1,0 +1,4 @@
+﻿streamlit
+SpeechRecognition
+audioop-lts
+secrets.tom1
