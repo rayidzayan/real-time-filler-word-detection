@@ -21,6 +21,7 @@ FILLER_PATTERNS = {
     "I mean": r"\bi\s+mean\b",
     "kind of": r"\bkind\s+of\b",
     "sort of": r"\bsort\s+of\b",
+    "basically": r"\bbasically\b",
 }
 
 _model = None
